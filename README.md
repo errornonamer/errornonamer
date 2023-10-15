@@ -2,7 +2,7 @@
 
 #### Just your average stackoverflow copy-paster
 
-[![GPG Pubkey](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU+Privacy+Guard&logoColor=0093DD)](https://errornonamer.top/.well-known/openpgpkey/hu/n8hixdefh555ssfd3zeynb9j6utaojut)\
+[![GPG Pubkey](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU+Privacy+Guard&logoColor=0093DD)](https://errornonamer.top/.well-known/openpgpkey/hu/n8hixdefh555ssfd3zeynb9j6utaojut)
 <!--![nixos](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
